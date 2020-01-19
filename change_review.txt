@@ -1,0 +1,14 @@
+Был изменён отзыв на товар <a href="http://#SERVER_NAME##HREF#">#NAME_ELEMENT#</a><br>
+ <br>
+<p style="margin-top: 30px; margin-bottom: 28px; font-weight: bold; font-size: 19px;">
+	Новый отзыв:
+</p>
+<br><p>#NEW_REVIEW#</p>
+<br>
+<p style="margin-top: 30px; margin-bottom: 28px; font-weight: bold; font-size: 19px;">
+	Старый отзыв:
+</p>
+<br><p>Достоинства: #ADV_OLD#</p>
+<br><p>Недостатки: #DISADV_OLD#</p>
+<br><p>Оценка: #RATE_OLD#</p>
+<br><p>Комментарий: #COMMENT_OLD#</p>
